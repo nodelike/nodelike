@@ -1,7 +1,5 @@
 ### Hey, I'm Kishore 👋
 
-Product and platform engineer in Bangalore. I build Go services, React Native apps and AWS infrastructure at [SwishX](https://www.swishx.com/), and developer tools on the side.
-
 **Building**
 
 - [**sikemux**](https://github.com/nodelike/sikemux) — terminal multiplexer for macOS with an editor, git, API client and AI agents in one tiling workspace. Tauri + Rust + React.
