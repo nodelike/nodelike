@@ -2,7 +2,7 @@
 
 **Building**
 
-- [**sikemux**](https://github.com/nodelike/sikemux) — terminal multiplexer for macOS with an editor, git, API client and AI agents in one tiling workspace. Tauri + Rust + React.
+- [**sikemux**](https://github.com/nodelike/sikemux) — the IDE for you and your coding agents. Bring Claude Code, Codex or OpenCode; it gives them your shell, browser, logs and deploys in one 25 MB native app for macOS and Linux, with a phone app to follow along. Rust + GPUI.
 - [**bcopy**](https://github.com/nodelike/bcopy) — copy a codebase to your clipboard as markdown, ready to paste into an LLM.
 - [**diffloc**](https://github.com/nodelike/diffloc) — git diff and line count stats in a small TUI.
 
@@ -12,4 +12,4 @@ Go · TypeScript · Rust · React Native · Next.js · PostgreSQL · Redis · AW
 
 **Elsewhere**
 
-[nodelike.com](https://nodelike.com) · [LinkedIn](https://www.linkedin.com/in/kishore-gunalan-474646256/) · [X](https://x.com/nodelike) · [kishore.sensei@gmail.com](mailto:kishore.sensei@gmail.com)
+[sikemux.com](https://sikemux.com) · [nodelike.com](https://nodelike.com) · [LinkedIn](https://www.linkedin.com/in/kishore-gunalan-474646256/) · [X](https://x.com/nodelike) · [contact@nodelike.com](mailto:contact@nodelike.com)
